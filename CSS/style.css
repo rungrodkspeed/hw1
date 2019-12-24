@@ -1,0 +1,25 @@
+#info {
+    font-size: 5;
+    font-style: oblique;
+}
+
+#contact{
+    color:black;
+    font-style: unset;
+}
+
+#style1{
+    font-size: medium;
+    font-style: italic;
+    color: rgb(97, 85, 30);
+}
+
+#style2{
+    font-style: normal;
+}
+
+#style3{
+    font-size: medium;
+    font-style: italic;
+    color: black;
+}
